@@ -22,16 +22,13 @@ A pipeline segue as etapas clássicas de ETL:
 Além da pipeline de ETL, este projeto também inclui uma etapa de análise de dados utilizando SQL no BigQuery, seguida da criação de um dashboard interativo no Looker Studio. Este dashboard permite visualizar os produtos, incluindo informações sobre preços e links diretos para as páginas de compra, facilitando a tomada de decisão e o acompanhamento das ofertas do Mercado Livre.
 
 ## Próximos Passos
-Algumas melhorias planejadas para o futuro incluem:
-- Monitoramento e alertas automatizados para a pipeline.
-- Otimização da coleta de dados para escalabilidade.
-- Expansão das categorias de produtos rastreados.
+- Extrair mais dados dos produtos.
 - Enriquecimento do dashboard com mais métricas e filtros interativos.
+- Criação de camadas de consultas: bronze, silver e gold.
 
 ## Como Usar
-A instalação requer uma instância configurada do Apache Airflow e credenciais apropriadas do GCP para acesso ao GCS e ao BigQuery. Instruções detalhadas de instalação e configuração podem ser encontradas aqui (inserir link para instruções).
+A instalação requer uma instância configurada do Apache Airflow e credenciais apropriadas do GCP para acesso ao GCS e ao BigQuery.
 
 ## Links
-- [Repositório GitHub](#) (Inserir o link do repositório)
-- [Post LinkedIn](https://www.linkedin.com/in/matheus-picotti/) (Inserir o link do post sobre o projeto)
-- [Dashboard Looker Studio](#) (Inserir o link do dashboard se público)
+- [Post LinkedIn](https://www.linkedin.com/posts/matheus-picotti-528904158_dataengineering-etl-airflow-activity-7127399247129288704-WZ72?utm_source=share&utm_medium=member_desktop)
+- [Dashboard Looker Studio]((https://lookerstudio.google.com/u/0/reporting/337e2116-5f23-4615-b503-3272ba994178/page/SkOhD)https://lookerstudio.google.com/u/0/reporting/337e2116-5f23-4615-b503-3272ba994178/page/SkOhD)
