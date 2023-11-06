@@ -31,4 +31,4 @@ A instalação requer uma instância configurada do Apache Airflow e credenciais
 
 ## Links
 - [Post LinkedIn](https://www.linkedin.com/posts/matheus-picotti-528904158_dataengineering-etl-airflow-activity-7127399247129288704-WZ72?utm_source=share&utm_medium=member_desktop)
-- [Dashboard Looker Studio]((https://lookerstudio.google.com/u/0/reporting/337e2116-5f23-4615-b503-3272ba994178/page/SkOhD)https://lookerstudio.google.com/u/0/reporting/337e2116-5f23-4615-b503-3272ba994178/page/SkOhD)
+- [Dashboard Looker Studio](https://lookerstudio.google.com/u/0/reporting/337e2116-5f23-4615-b503-3272ba994178/page/SkOhD)https://lookerstudio.google.com/u/0/reporting/337e2116-5f23-4615-b503-3272ba994178/page/SkOhD)
